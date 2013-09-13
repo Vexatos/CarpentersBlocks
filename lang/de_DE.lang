@@ -18,6 +18,7 @@ tile.blockCarpentersDaylightSensor.name=Tageslichtsensor des Zimmermanns
 tile.blockCarpentersDoor.name=Tür des Zimmermanns
 tile.blockCarpentersGate.name=Zauntor des Zimmermanns
 tile.blockCarpentersHatch.name=Luke des Zimmermanns
+tile.blockCarpentersLadder.name=Leiter des Zimmermanns
 tile.blockCarpentersLever.name=Hebel des Zimmermanns
 tile.blockCarpentersPressurePlate.name=Druckplatte des Zimmermanns
 tile.blockCarpentersSlope.name=Rampe des Zimmermanns
