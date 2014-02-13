@@ -4,29 +4,29 @@
 itemGroup.carpentersBlocks.name=Carpenter's Blocks
 
 # ITEMS
-item.itemCarpentersHammer.name=Hammer des Zimmermanns
-item.itemCarpentersChisel.name=Meißel des Zimmermanns
-item.itemCarpentersDoor.name=Tür des Zimmermanns
-item.itemCarpentersBed.name=Bett des Zimmermanns
+item.itemCarpentersHammer.name=Zimmermanns Hammer
+item.itemCarpentersChisel.name=Stechbeitel
+item.itemCarpentersDoor.name=Zimmermanns T\u00fcr
+item.itemCarpentersBed.name=Zimmermanns Bett
 
 # BLOCKS
-tile.blockCarpentersBarrier.name=Barriere des Zimmermanns
-tile.blockCarpentersBed.name=Bett des Zimmermanns
-tile.blockCarpentersBlock.name=Block des Zimmermanns
-tile.blockCarpentersButton.name=Knopf des Zimmermanns
-tile.blockCarpentersDaylightSensor.name=Tageslichtsensor des Zimmermanns
-tile.blockCarpentersDoor.name=Tür des Zimmermanns
-tile.blockCarpentersGate.name=Zauntor des Zimmermanns
-tile.blockCarpentersHatch.name=Luke des Zimmermanns
-tile.blockCarpentersLadder.name=Leiter des Zimmermanns
-tile.blockCarpentersLever.name=Hebel des Zimmermanns
-tile.blockCarpentersPressurePlate.name=Druckplatte des Zimmermanns
-tile.blockCarpentersSlope.name=Rampe des Zimmermanns
-tile.blockCarpentersStairs.name=Treppe des Zimmermanns
+tile.blockCarpentersBarrier.name=Zimmermanns Barriere des 
+tile.blockCarpentersBed.name=Zimmermanns Bett des 
+tile.blockCarpentersBlock.name=Zimmermanns Block des 
+tile.blockCarpentersButton.name=Zimmermanns Knopf des 
+tile.blockCarpentersDaylightSensor.name=Zimmermanns Tageslichtsensor des 
+tile.blockCarpentersDoor.name=Zimmermanns T\u00fcr des 
+tile.blockCarpentersGate.name=Zimmermanns Zauntor des 
+tile.blockCarpentersHatch.name=Zimmermanns Klappe des 
+tile.blockCarpentersLadder.name=Zimmermanns Leiter des 
+tile.blockCarpentersLever.name=Zimmermanns Hebel des 
+tile.blockCarpentersPressurePlate.name=Zimmermanns Druckplatte des 
+tile.blockCarpentersSlope.name=Zimmermanns Rampe des 
+tile.blockCarpentersStairs.name=Zimmermanns Treppe des 
 
 # MESSAGES
-message.polarity_pos.name=\u00a76POLARITÄT: \u00a7fNormaler Redstone-Output.
-message.polarity_neg.name=\u00a76POLARITÄT: \u00a7fUmgekehrter Redstone-Output.
+message.polarity_pos.name=\u00a76POLARITÄT: \u00a7fRedstone-Output.
+message.polarity_neg.name=\u00a76POLARITÄT: \u00a7fRedstone-Output Invertiert.
 message.activation_day.name=\u00a76AKTIVIERUNG: \u00a7fAktiviere bei Tag.
 message.activation_night.name=\u00a76AKTIVIERUNG: \u00a7fAktiviere bei Nacht.
 message.activation_iron.name=\u00a76AKTIVIERUNG: \u00a7fWird funktionieren wie eine Eisentür.
