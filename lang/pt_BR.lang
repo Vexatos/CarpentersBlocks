@@ -1,0 +1,39 @@
+﻿# Carpenter's Blocks Language File = BRAZILIAN PORTUGUESE
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=Martelo do Carpinteiro
+item.itemCarpentersChisel.name=Cinzel do Carpinteiro
+item.itemCarpentersDoor.name=Porta do Carpinteiro
+item.itemCarpentersBed.name=Cama do Carpinteiro
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=Barreira do Carpinteiro
+tile.blockCarpentersBed.name=Cama do Carpinteiro
+tile.blockCarpentersBlock.name=Bloco do Carpinteiro
+tile.blockCarpentersButton.name=Botão do Carpinteiro
+tile.blockCarpentersDaylightSensor.name=Sensor de Luz Solar do Carpinteiro
+tile.blockCarpentersDoor.name=Porta do Carpinteiro
+tile.blockCarpentersGate.name=Portão do Carpinteiro
+tile.blockCarpentersHatch.name=Alçapão do Carpinteiro
+tile.blockCarpentersLadder.name=Escada do Carpinteiro
+tile.blockCarpentersLever.name=Alavanca do Carpinteiro
+tile.blockCarpentersPressurePlate.name=Placa de Pressão do Carpinteiro
+tile.blockCarpentersSlope.wedge.name=Rampa do Carpinteiro
+tile.blockCarpentersStairs.name=Escadas do Carpinteiro
+
+# MESSAGES
+message.polarity_pos.name=\u00a76POLARIDADE: \u00a7fSaída de redstone normal.
+message.polarity_neg.name=\u00a76POLARIDADE: \u00a7fSaída de redstone invertida.
+message.activation_iron.name=\u00a76ATIVAÇÃO: \u00a7fVai se comportar como uma porta de ferro.
+message.activation_wood.name=\u00a76ATIVAÇÃO: \u00a7fVai se comportar como uma porta de madeira.
+message.trigger_player.name=\u00a76TRIGGER: \u00a7fSó ativar para jogadores.
+message.trigger_monster.name=\u00a76TRIGGER: \u00a7fSó ativar para monstros.
+message.trigger_animal.name=\u00a76TRIGGER: \u00a7fSó ativar para animais.
+message.trigger_all.name=\u00a76TRIGGER: \u00a7fAtivar para todas as entidades.
+message.activation_day.name=\u00a76ATIVAÇÃO: \u00a7fAtivar durante o dia.
+message.activation_night.name=\u00a76ATIVAÇÃO: \u00a7fAtivar à noite.
+
+# </file>
